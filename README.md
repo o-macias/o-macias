@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hola me llamo Óscar y soy <br> <a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/">Informático orientado a Cyberseguridad</a></h1>
 
-<!--
-**o-macias/o-macias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Proyectos de programación:</h2>
 
-Here are some ideas to get you started:
+- <b>Programación web</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+
+<h2>Proyectos orientados a cyberseguridad:</h2>
+
+
+
+
+<h2>Contacto:</h2>
+<a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/"; target="_blank"><img align="left" alt="Oscar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>Linkedin</a>
+<br>
+Correo: <a target="_blank">25oscarm@gmail.com</a>
