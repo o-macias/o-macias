@@ -1,4 +1,4 @@
-<h1>Hello, my name is <a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/">Oscar</a> and I am<br> a Computer Scientist focused on Cybersecurity and machine learning.</h1>
+<h1>Hello, my name is <a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/">Oscar</a> and I am a Computer Scientist focused on Cybersecurity and machine learning.</h1>
 
 <h2>Programming projects:</h2>
 
