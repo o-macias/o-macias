@@ -2,8 +2,6 @@
 
 <h2>Proyectos de programación:</h2>
 
-- <b>Programación web</b>
-
 - <b>Python</b>
 
 <h2>Proyectos orientados a ciberseguridad:</h2>
