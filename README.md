@@ -1,4 +1,4 @@
-<h1>Hola me llamo Óscar y soy <br> <a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/">Informático orientado a Cyberseguridad</a></h1>
+<h1>Hola me llamo Óscar y soy <br> <a href="https://www.linkedin.com/in/%C3%B3scar-mac%C3%ADas-mart%C3%ADnez-248943278/">Informático orientado a Cyberseguridad y machine learning</a></h1>
 
 <h2>Proyectos de programación:</h2>
 
