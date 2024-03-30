@@ -3,7 +3,8 @@
 Imports used:
 <ul>
   <li><a href="https://pyshorteners.readthedocs.io/en/latest/">pyshorteners</a></li>
-  ```Python
+  
+```Python
 import pyshorteners
   def shorten_url(url):
     s = pyshorteners.Shortener()
