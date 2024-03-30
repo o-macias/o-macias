@@ -6,7 +6,7 @@
 
 - <b>Python</b>
 
-<h2>Proyectos orientados a cyberseguridad:</h2>
+<h2>Proyectos orientados a ciberseguridad:</h2>
 
 
 
