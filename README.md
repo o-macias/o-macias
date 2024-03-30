@@ -2,8 +2,8 @@
 
 <h2>Programming projects:</h2>
 
-- <b>Python</b>
-<a href="#Portfolio/pyshorteners">url_shortener</a>
+- <b>Python</b><br>
+<a href="#../Portfolio/pyshorteners">url_shortener</a>
 
 <h2>Cybersecurity-oriented projects:</h2>
 
